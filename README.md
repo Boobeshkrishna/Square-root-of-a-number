@@ -24,7 +24,6 @@ def newtow_method(number,number_iters=100):
 a=int(input())
 print("Square root of the number:",newtow_method(a))
 ```
-
 ## Output:
 ![gcd of two number](gcd.png)
 ![image](https://github.com/Boobeshkrishna/Square-root-of-a-number/assets/141472052/d7e79af0-c859-45f0-a45e-a25e9a6a819c)
